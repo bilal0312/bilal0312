@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bilal0312
-- 👀 I’m interested in NLP for conversational AI production.
-- 🌱 I’m currently learning NLP, NLU, NLG.
+- Hi, I’m @bilal0312
+- I'm expert in ASR and NLP for various AI production.
 - 💞️ I’m looking to collaborate on these tech.
 
 
